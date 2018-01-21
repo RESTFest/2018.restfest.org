@@ -1,0 +1,63 @@
+{
+  "title": "Edinburgh, Scotland - May 18-20, 2017",
+  "wiki": "https://github.com/RESTFest/2017-Edinburgh/wiki",
+  "sponsors": {
+    "HEAD": [
+    ],
+    "PATCH": [
+    ],
+    "POST": [
+    ],
+    "GET": [
+    ],
+    "rel_friend": [
+      {
+        "name": "Eric Wilde",
+        "image": "https://pbs.twimg.com/profile_images/828971507820982272/5IhAUAal_400x400.jpg",
+        "url": "https://twitter.com/dret"
+      },
+      {
+        "name": "Rory Gianni",
+        "image": "https://pbs.twimg.com/profile_images/604239565788942336/oi9NYLHA_400x400.jpg",
+        "url": "https://twitter.com/digitalWestie"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "name": "Erik Wilde",
+      "screen_name": "dret",
+      "profile_image_url": "//pbs.twimg.com/profile_images/554794674863366145/oFjJFZOe_400x400.jpeg"
+    },
+    {
+      "name": "Shelby Switzer",
+      "screen_name": "switzerly",
+      "profile_image_url": "//pbs.twimg.com/profile_images/577290467160690688/vIjbnVqi_400x400.jpeg"
+    },
+    {
+      "name": "Mike Amundsen",
+      "screen_name": "mamund",
+      "profile_image_url": "//pbs.twimg.com/profile_images/340449683/madmen_icon_400x400.jpg"
+    },
+    {
+      "name":"Holger Reinhardt",
+      "screen_name": "hlgr360",
+      "profile_image_url": "//pbs.twimg.com/profile_images/431378599505952768/ttb1GsgJ_400x400.jpeg"
+    },
+    {
+      "name":"Martin Danielsson",
+      "screen_name": "donmartin76",
+      "profile_image_url": "//pbs.twimg.com/profile_images/794106798789771264/l6PunsZk_400x400.jpg"
+    },
+    {
+      "name":"Mehdi Medjaoui",
+      "screen_name":"medjawii",
+      "profile_image_url":"//pbs.twimg.com/profile_images/577112958792138754/UBS22GTX_400x400.jpeg"
+    },
+    {
+      "name":"Ben Longden",
+      "screen_name":"blongden",
+      "profile_image_url":"//pbs.twimg.com/profile_images/378800000707211018/bd0272085ed641d78a8d350bd815c5fc_400x400.jpeg"
+    }
+  ]
+}
