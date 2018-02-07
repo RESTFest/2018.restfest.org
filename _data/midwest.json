@@ -16,5 +16,25 @@
     ]
   },
   "speakers": [
+    {
+      "name": "Aaron Hedges",
+      "screen_name": "Dashron",
+      "profile_image_url": "//pbs.twimg.com/profile_images/950381672893206529/9jBh1cs0_400x400.jpg"
+    },
+    {
+      "name": "Eric Oestrich",
+      "screen_name": "ericoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/611241942668677121/9QHqw-T-_400x400.jpg"
+    },
+    {
+      "name": "Shelby Switzer",
+      "screen_name": "switzerly",
+      "profile_image_url": "//pbs.twimg.com/profile_images/886406345762590720/yRxm0eWA_400x400.jpg"
+    },
+    {
+      "name": "bigbluehat",
+      "screen_name": "bigbluehat",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
+    }
   ]
 }
