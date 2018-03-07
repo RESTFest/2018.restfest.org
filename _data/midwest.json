@@ -17,16 +17,6 @@
   },
   "speakers": [
     {
-      "name": "Jason Desrosiers",
-      "screen_name": "jasondesrosiers",
-      "profile_image_url": "//pbs.twimg.com/profile_images/439996213639643137/7Ee0jMLR_400x400.jpeg"
-    },
-    {
-      "name": "Michael Tiller",
-      "screen_name": "mtiller",
-      "profile_image_url": "//pbs.twimg.com/profile_images/414946954/manga_headshot_medium_400x400.png"
-    },
-    {
       "name": "Aaron Hedges",
       "screen_name": "Dashron",
       "profile_image_url": "//pbs.twimg.com/profile_images/950381672893206529/9jBh1cs0_400x400.jpg"
@@ -45,6 +35,16 @@
       "name": "bigbluehat",
       "screen_name": "bigbluehat",
       "profile_image_url": "//pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
+    },
+    {
+      "name": "Michael Tiller",
+      "screen_name": "mtiller",
+      "profile_image_url": "//pbs.twimg.com/profile_images/414946954/manga_headshot_medium_400x400.png"
+    },
+    {
+      "name": "Jason Desrosiers",
+      "screen_name": "jasondesrosiers",
+      "profile_image_url": "//pbs.twimg.com/profile_images/439996213639643137/7Ee0jMLR_400x400.jpeg"
     }
   ]
 }
