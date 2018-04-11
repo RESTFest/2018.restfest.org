@@ -1,6 +1,6 @@
 {
   "title": "Grand Rapids, MI, USA - April 20 - 21, 2018",
-  "wiki": "https://github.com/RESTFest/2018-GrandRapids/wiki",
+  "wiki": "https://github.com/RESTFest/2018-Grand-Rapids/wiki",
   "sponsors": {
     "HEAD": [
     ],
@@ -9,6 +9,11 @@
     "POST": [
     ],
     "PUT": [
+      {
+        "name": "SmartLogic",
+        "url": "https://smartlogic.io",
+        "image": "/images/smartlogic.png"
+      }
     ],
     "GET": [
     ],
