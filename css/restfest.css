@@ -42,19 +42,14 @@ div[typeof=Event] h3 {
     margin: 1em;
 }
 
-.ui.masthead.masthead {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-uk.jpg');
-    background-size: cover;
-    margin-right: auto;
-    margin-left: auto;
-}
 .ui.masthead.masthead--midwest {
     background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-midwest.jpg');
     background-position: center;
 }
 
-.ui.masthead.masthead--us {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-us.jpg');
+.ui.masthead.masthead--east {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-east.jpg');
+    background-position: center;
 }
 
 .ui.horizontal.list .item {
