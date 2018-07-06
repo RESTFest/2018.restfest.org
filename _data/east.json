@@ -27,6 +27,11 @@
   },
   "speakers": [
     {
+      "name": "Aaron Hedges",
+      "screen_name": "Dashron",
+      "profile_image_url": "//pbs.twimg.com/profile_images/984482844352409603/jSm1EpJO_400x400.jpg"
+    },
+    {
       "name": "Eric Oestrich",
       "screen_name": "ericoestrich",
       "profile_image_url": "//pbs.twimg.com/profile_images/1010752443326521344/BmsDdnm-_400x400.jpg"
@@ -55,6 +60,6 @@
       "name": "Lorinda Brandon",
       "screen_name": "lindybrandon",
       "profile_image_url": "//pbs.twimg.com/profile_images/967118354950639618/txRPVlg7_400x400.jpg"
-    },
+    }
   ]
 }
