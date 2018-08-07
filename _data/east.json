@@ -23,6 +23,11 @@
     "GET": [
     ],
     "rel_friend": [
+      {
+        "name": "API Handyman",
+        "url": "https://twitter.com/apihandyman",
+        "image": "//pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf_400x400.jpg"
+      }
     ]
   },
   "speakers": [
