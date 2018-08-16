@@ -3,6 +3,12 @@
   "wiki": "https://github.com/RESTFest/2018-Greenville/wiki",
   "sponsors": {
     "HEAD": [
+      {
+        "name": "CA, Inc.",
+        "image": "/images/cainc.png",
+        "description": "<a href=\"https://ca.com/\" target=\"_blank\">CA, Inc.</a> has been the proud sponsor of the <a href=\"http://videos.restfest.org/\">REST Fest Videos Project</a> since 2012. Their sponsorship has helped make nearly a half decades worth of REST Fest content available online!",
+        "url": "https://ca.com/"
+      }
     ],
     "PATCH": [
       {
