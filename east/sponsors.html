@@ -23,7 +23,7 @@ weight: 35
   </div>
   <div class="ui segment items">
     <h2 class="ui header faded">PATCH</h2>
-    <div class="ui top aligned smedium images">
+    <div class="ui top aligned medium images">
       {% include sponsorship-image.html event="east" level="PATCH" %}
     </div>
   </div>
@@ -31,18 +31,20 @@ weight: 35
     <h2 class="ui two column grid faded">
       <div class="column">PUT</div>
     </h2>
-    <div class="ui item">
+    <div class="ui top aligned smedium images">
       {% include sponsorship-image.html event="east" level="PUT" %}
     </div>
   </div>
   <div class="ui segment items">
-    <h2 class="ui two column grid faded" id="friends">
+    <h2 class="ui two column grid faded">
       <div class="column">GET</div>
     </h2>
-    {% include sponsor-avatars.html event="east" level="GET" %}
+    <div class="ui top aligned small images">
+      {% include sponsorship-image.html event="east" level="GET" %}
+    </div>
   </div>
   <div class="ui segment items">
-    <h2 class="ui two column grid">
+    <h2 class="ui two column grid" id="friends">
       <div class="column faded">rel="friend"</div>
       <div class="right aligned column">
         <tito-button event="rest-fest/rest-fest-us-2017" class="ui button">Add it with your registration!</tito-button>
