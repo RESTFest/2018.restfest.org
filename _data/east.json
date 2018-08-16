@@ -27,6 +27,11 @@
       }
     ],
     "GET": [
+      {
+        "name": "Crowd Favorite",
+        "url": "https://crowdfavorite.com/",
+        "image": "/images/crowdfavorite.jpg"
+      }
     ],
     "rel_friend": [
       {
