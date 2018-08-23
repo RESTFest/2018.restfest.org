@@ -38,6 +38,16 @@
         "name": "API Handyman",
         "url": "https://twitter.com/apihandyman",
         "image": "//pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf_400x400.jpg"
+      },
+      {
+        "name": "Mike Amundsen",
+        "url": "https://twitter.com/mamund",
+        "image": "//pbs.twimg.com/profile_images/340449683/madmen_icon_400x400.jpg"
+      },
+      {
+        "name": "ExVenture",
+        "url": "https://github.com/oestrich/ex_venture",
+        "image": "https://exventure.org/images/exventure.png"
       }
     ]
   },
@@ -93,9 +103,9 @@
       "profile_image_url": "//pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf_400x400.jpg"
     },
     {
-      "name": "Linden Lee Colby",
-      "screen_name": "lindenleecolby",
-      "profile_image_url": "//pbs.twimg.com/profile_images/633471905123536896/3h74-OoV_400x400.jpg"
+      "name": "Bethany Oestrich",
+      "screen_name": "bethanyoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/970131439441227776/uwYTMJwH_400x400.jpg"
     }
   ]
 }
