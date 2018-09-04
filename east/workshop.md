@@ -8,6 +8,10 @@ weight: 40
 
 What are Web APIs and how do you design and build them? And what do all these acronyms mean: REST, CRUD, Hypermedia, GraphQL, AOI, Swagger, RAML, Blueprint, OAuth? Join the REST Fest team for a wide-ranging and in-depth workshop that touches on the basics of Web APIs, what makes them work, and how you can navigate the alphabet soup of standards and practices that make up this essential part of the World Wide Web.
 
+**Sessions led by:**
+ * Shelby Swtizer
+ * Mike Amundsen
+
 ## *Tentative* Agenda
 
 Got some ideas for the agenda and schedule? Join the discussion at our
@@ -42,32 +46,6 @@ Got some ideas for the agenda and schedule? Join the discussion at our
 ### **LUNCH** (Noon to 1PM)
 
 ### **AFTERNOON** (1PM-4PM)
-  - *Anatomy of a Web API Server* (40min)
-    - The Request/Response Loop
-    - Data & Objects
-    - Resources & Representation
-    - _Exercise: Map out the ToDo Server_
-  - *Anatomy of a Web API Client* (40min)
-    - The Request/Response Loop
-    - URLs, Methods, and Actions
-    - Formats and Representations
-    - _Exercise: Map out the ToDo ClientApp_
-  - *BREAK* (20min)
-  - *API Definition Languages* (40min)
-    - WSDL/WADL
-    - Swagger/RAML/Apiary
-    - ALPS/DCAP
-    - _Exercise: Describe the ToDo API_
-  - *The Hard Stuff* (40min)
-    - Documentation
-    - Versioning
-    - Discovery
-    - Security
-    - _Exericise: Supporting the ToDo API_
-
-<div class="ui horizontal divider">OR</div>
-
-### **Alternative Afternoon** (1PM-4PM)
   - Starting with an API definition, we will identify and discuss common REST API design practices and patterns. Topics covered:
     - API definition languages such as Open API Spec (Swagger), RAML, API Blueprint, ALPS, etc
     - Resources & Representation
