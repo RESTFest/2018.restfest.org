@@ -57,6 +57,11 @@
         "name": "njyx",
         "image": "//pbs.twimg.com/profile_images/1021432660/191-191348_400x400.jpg",
         "url": "https://twitter.com/njyx"
+      },
+      {
+        "name": "rhynodesigns",
+        "image": "//pbs.twimg.com/profile_images/852305333259206656/9f5nm_gA_400x400.jpg",
+        "url": "https://twitter.com/rhynodesigns"
       }
     ]
   },
@@ -130,6 +135,11 @@
       "name": "Steven Willmott",
       "screen_name": "njyx",
       "profile_image_url": "//pbs.twimg.com/profile_images/1021432660/191-191348_400x400.jpg"
+    },
+    {
+      "name": "Kin Lane",
+      "screen_name": "kinlane",
+      "profile_image_url": "//pbs.twimg.com/profile_images/935340883574185984/bSgYI6rm_400x400.jpg"
     }
   ]
 }
