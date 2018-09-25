@@ -12,11 +12,6 @@ What are Web APIs and how do you design and build them? And what do all these ac
  * Shelby Swtizer
  * Mike Amundsen
 
-## *Tentative* Agenda
-
-Got some ideas for the agenda and schedule? Join the discussion at our
-[2018-workshop-day](https://github.com/RESTFest/2018-workshop-day) repo.
-
 ### **MORNING** (9-Noon)
   - *REST: A starting point* (40min)
     - System Properties
