@@ -13,6 +13,7 @@ What are Web APIs and how do you design and build them? And what do all these ac
  * Mike Amundsen
 
 ### **MORNING** (9-Noon)
+  - [Morning Slides (PDF)]https://github.com/RESTFest/2018-workshop-day/blob/master/2018-09-restfest.pdf
   - *REST: A starting point* (40min)
     - System Properties
     - Architecture Constraints
