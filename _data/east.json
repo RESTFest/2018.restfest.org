@@ -31,6 +31,11 @@
         "name": "Crowd Favorite",
         "url": "https://crowdfavorite.com/",
         "image": "/images/crowdfavorite.jpg"
+      },
+      {
+        "name": "John Wiley &amp; Sons, Inc.",
+        "url": "https://www.wiley.com/",
+        "image": "/images/wiley.png"
       }
     ],
     "rel_friend": [
