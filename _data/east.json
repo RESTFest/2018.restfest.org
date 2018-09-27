@@ -36,6 +36,11 @@
         "name": "John Wiley &amp; Sons, Inc.",
         "url": "https://www.wiley.com/",
         "image": "/images/wiley.png"
+      },
+      {
+        "name": "OpenWorks",
+        "url": "https://joinopenworks.com/",
+        "image": "/images/openworks.png"
       }
     ],
     "rel_friend": [
