@@ -3,6 +3,12 @@
   $(document)
     .ready(function() {
 
+      //open the mobile menu
+      $('.toc').click( function(e) {
+        e.preventDefault();
+        $('.menu.stackable .item').toggleClass('visible')
+      })
+
       // fix menu when passed
       $('.masthead')
         .visibility({
